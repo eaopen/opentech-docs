@@ -17,9 +17,9 @@
 * 架构师图谱
 ![架构师图谱](knowladge-map/1.1%20架构师图谱.jpg)
 * Java架构师图谱 
-![Java架构师图谱](knowladge-map/1.2 Java架构师图谱.jpg)
+![Java架构师图谱](knowladge-map/1.2%20Java架构师图谱.jpg)
 * DevOps图谱
-![DevOps图谱](knowladge-map/5.10 DevOps图谱.jpg)
+![DevOps图谱](knowladge-map/5.10%20DevOps图谱.jpg)
 * 前端开发图谱
 ![前端开发图谱](knowladge-map/5.11%20前端开发图谱.jpg)
 * 后端开发图谱

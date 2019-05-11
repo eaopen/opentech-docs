@@ -18,6 +18,11 @@
 
 ![DevOps图谱](knowladge-map/5.10%20DevOps图谱.jpg)
 
+## 工具使用
+
+* 版本管理工具
+
+[Git常用命令集合](devops/git-tips/README.md)
 
 # 前端相关技术
 
@@ -80,9 +85,11 @@ hadoop/spark
 
 # 其他
 
+
 ## 知识图谱
 
 更多参见 [知识图谱](knowledge-map/README.md)
+
 
 ## 更多awesome
 *   [Awesome Lists](https://github.com/topics/awesome)
